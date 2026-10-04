@@ -11,3 +11,11 @@ then with NumPy.
 - Ubuntu 20.04 LTS, Python 3.9
 - NumPy 1.25.2
 - pycodestyle 2.11.1
+
+
+## Files
+Each file corresponds to a task, from basic list slicing (0) to
+NumPy matrix multiplication (14).
+
+## Author
+Kleant Laboti
