@@ -1,2 +1,10 @@
 *.csv
 *.csv
+*.csv
+*.zip
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*-main.py
+test_*.py
+*.png
