@@ -20,8 +20,6 @@ def sentientPlanets():
                 if home is not None:
                     planet = requests.get(home).json()
                     planets.append(planet["name"])
-                else:
-                    planets.append("unknown")
 
         url = data["next"]
 
